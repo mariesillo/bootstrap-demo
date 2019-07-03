@@ -1,0 +1,6 @@
+total 16
+-rw-r--r--    1 root     root           141 Jul  3 21:30 Dockerfile
+-rw-r--r--    1 root     root           837 Jul  3 21:30 Jenkinsfile
+-rw-r--r--    1 root     root            17 Jul  3 21:30 README.md
+drwxr-xr-x    7 root     root          4096 Jul  3 21:30 bootstrap-demo
+-rw-r--r--    1 root     root             0 Jul  3 21:31 filex.txt
